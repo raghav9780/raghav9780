@@ -11,7 +11,7 @@
 <!-- Profile views + social -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raghavgupta2412&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-  <a href="https://github.com/raghavgupta2412?tab=followers">
+  <a href="https://github.com/raghav9780?tab=followers">
     <img src="https://img.shields.io/github/followers/raghavgupta2412?label=Followers&style=social" />
   </a>
 </p>
@@ -35,7 +35,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raghavgupta2412&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raghav9780&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavgupta2412&layout=compact&theme=radical&hide_border=true" />
 </p>
 
@@ -47,7 +47,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raghavgupta2412/raghavgupta2412/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/raghav9780/raghav9780/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
